@@ -1,0 +1,7 @@
+{
+  "excludeScenes": [],
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "startScene": "5516066d-df62-4a57-81d4-1f2edaff4002",
+  "title": "mainscene"
+}
